@@ -215,8 +215,8 @@ Rate Per Day: Rs. 2000
 | Name          | Role             |
 | ------------- | ---------------- |
 | H. Maleesha Hirumal     | Lead Developer   |
-| Member 2 Name | Senior Developer |
-| Member 3 Name | Developer        |
+| M. D. B. Deneth | Senior Developer |
+| Aveesha Vimod | Developer        |
 
 ---
 
